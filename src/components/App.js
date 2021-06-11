@@ -26,7 +26,3 @@ const App = () => {
 };
 
 export default App;
-
-
-// Client ID: 856386699496-lta2fn8gvt1kff0gfsbu9eiolr6krq05.apps.googleusercontent.com
-// Client Secret: eAEgpeoDZM2gSAFqTHs45ANb
