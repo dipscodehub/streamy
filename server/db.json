@@ -6,14 +6,9 @@
       "id": 1
     },
     {
-      "title": "my first stream.",
-      "description": "This a  test stream 01",
+      "title": "Stream Two",
+      "description": "another stream",
       "id": 2
-    },
-    {
-      "title": "my first stream.",
-      "description": "This a  test stream 01",
-      "id": 3
     }
   ]
 }
